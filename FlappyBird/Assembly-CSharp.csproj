@@ -63,6 +63,7 @@
     <Compile Include="Assets\addScore.cs" />
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\JumpScript.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\moveLeft.cs" />
     <Compile Include="Assets\pipeSpawner.cs" />
     <Compile Include="Assets\Score.cs" />
