@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using UnityEngine.Audio;
 using UnityEngine;
 
 public class addScore : MonoBehaviour
@@ -18,6 +17,9 @@ public class addScore : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        //GetComponent<AudioSource>().Play();
+
+        FindObjectOfType<AudioManager>().Play("CoinSound");
         Score.score++;
     }
 }

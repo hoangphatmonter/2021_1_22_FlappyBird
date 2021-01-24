@@ -24,3 +24,5 @@ Current author:
 - [START MENU in Unity](https://www.youtube.com/watch?v=zc8ac_qUXQY&t=27s&ab_channel=Brackeys)
 - [Scalable UI Tutorial - Create Menus For Any Resolution in Unity | Scalable Canvas Settings in Unity](https://www.youtube.com/watch?v=Ad-Q9hYCnCg&ab_channel=Omnirift)
 - [How to fit your Unity Game on Different Screen Sizes! - Unity Anchors](https://www.youtube.com/watch?v=jcw4cBJbvrc&ab_channel=CryptoGrounds) (not used)
+- [HOW TO PLAY SOUND EFFECTS WITH A TRIGGER IN C# UNITY TUTORIAL](https://www.youtube.com/watch?v=qGAsgIJ-c38&t=49s&ab_channel=JimmyVegas)
+- [Introduction to AUDIO in Unity](https://www.youtube.com/watch?v=6OT43pvUyfY&t=574s&ab_channel=Brackeys)

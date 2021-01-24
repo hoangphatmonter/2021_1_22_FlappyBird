@@ -7,6 +7,9 @@ public class JumpScript : MonoBehaviour
     public GameManager gameManager;
     [SerializeField] public float velocity = 1;
     private Rigidbody2D rb;
+    //public AudioSource jumpSound;
+    //public AudioSource deathSound;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,11 +23,15 @@ public class JumpScript : MonoBehaviour
         {
             //jump
             rb.velocity = Vector2.up * velocity;
+            //jumpSound.Play();
+            FindObjectOfType<AudioManager>().Play("ClickSound");
         }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        //deathSound.Play();
+        FindObjectOfType<AudioManager>().Play("PunchSound");
         gameManager.GameOver();
     }
 }
