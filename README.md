@@ -15,6 +15,15 @@ https://www.spriters-resource.com/mobile/flappybird/sheet/59894/
 ## Fonts
 https://www.dafont.com/04b-19.font
 
+## WIP
+- Need to change the structure of data
+- Need to find the convention of managing data files reasonable
+- Add delay when starting game
+- Add audio volume setting
+- Add loading scene
+- Add inventory
+- Add rank
+
 ## Author
 Current author:
 - [Hoang Tan Phat](https://github.com/hoangphatmonter)
@@ -26,3 +35,4 @@ Current author:
 - [How to fit your Unity Game on Different Screen Sizes! - Unity Anchors](https://www.youtube.com/watch?v=jcw4cBJbvrc&ab_channel=CryptoGrounds) (not used)
 - [HOW TO PLAY SOUND EFFECTS WITH A TRIGGER IN C# UNITY TUTORIAL](https://www.youtube.com/watch?v=qGAsgIJ-c38&t=49s&ab_channel=JimmyVegas)
 - [Introduction to AUDIO in Unity](https://www.youtube.com/watch?v=6OT43pvUyfY&t=574s&ab_channel=Brackeys)
+- [SETTINGS MENU in Unity](https://youtu.be/YOaYQrN1oYQ?list=WL)

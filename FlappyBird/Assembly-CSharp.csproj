@@ -69,6 +69,7 @@
     <Compile Include="Assets\moveLeft.cs" />
     <Compile Include="Assets\pipeSpawner.cs" />
     <Compile Include="Assets\Score.cs" />
+    <Compile Include="Assets\script\SettingMenu.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/hoc/game/2021 project/flappy bird/FlappyBird/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
