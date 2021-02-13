@@ -36,3 +36,5 @@ Current author:
 - [HOW TO PLAY SOUND EFFECTS WITH A TRIGGER IN C# UNITY TUTORIAL](https://www.youtube.com/watch?v=qGAsgIJ-c38&t=49s&ab_channel=JimmyVegas)
 - [Introduction to AUDIO in Unity](https://www.youtube.com/watch?v=6OT43pvUyfY&t=574s&ab_channel=Brackeys)
 - [SETTINGS MENU in Unity](https://youtu.be/YOaYQrN1oYQ?list=WL)
+
+- [Dropdown scroll speed](https://forum.unity.com/threads/dropdown-scroll-speed.363456/)
