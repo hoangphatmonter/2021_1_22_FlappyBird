@@ -24,6 +24,8 @@ https://www.dafont.com/04b-19.font
 - Add inventory
 - Add rank
 
+- Study more about pivot (parent0 -> parent1 -> child): What does the relative child's postion set to parent0's pivot or parent1's pivot ?
+
 ## Author
 Current author:
 - [Hoang Tan Phat](https://github.com/hoangphatmonter)
@@ -36,5 +38,7 @@ Current author:
 - [HOW TO PLAY SOUND EFFECTS WITH A TRIGGER IN C# UNITY TUTORIAL](https://www.youtube.com/watch?v=qGAsgIJ-c38&t=49s&ab_channel=JimmyVegas)
 - [Introduction to AUDIO in Unity](https://www.youtube.com/watch?v=6OT43pvUyfY&t=574s&ab_channel=Brackeys)
 - [SETTINGS MENU in Unity](https://youtu.be/YOaYQrN1oYQ?list=WL)
+- [High Score Table with Saving and Loading(Unity Tutorial for Beginners)](https://youtu.be/iAbaqGYdnyI)
 
 - [Dropdown scroll speed](https://forum.unity.com/threads/dropdown-scroll-speed.363456/)
+- [How to Scale an Object in One Direction Unity 2020](https://youtu.be/XZnmMGz_VyU)

@@ -64,6 +64,7 @@
     <Compile Include="Assets\AudioManager.cs" />
     <Compile Include="Assets\AudioSound.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\highscore\HighscoreTable.cs" />
     <Compile Include="Assets\JumpScript.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\moveLeft.cs" />
