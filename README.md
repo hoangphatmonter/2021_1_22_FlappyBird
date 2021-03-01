@@ -3,7 +3,7 @@
 ## Engine used
 This game was made in *Unity*.
 ```
-Unity
+Unity2018.4.16f1
 ```
 
 ## Things to learn
@@ -22,7 +22,9 @@ https://www.dafont.com/04b-19.font
 - Add audio volume setting
 - Add loading scene
 - Add inventory
-- Add rank
+- ~~Add rank~~
+- Use PlayerPrefs to save settings
+- Use PlayerPrefs to save most recent playername played
 
 - Study more about pivot (parent0 -> parent1 -> child): What does the relative child's postion set to parent0's pivot or parent1's pivot ?
 
@@ -39,6 +41,9 @@ Current author:
 - [Introduction to AUDIO in Unity](https://www.youtube.com/watch?v=6OT43pvUyfY&t=574s&ab_channel=Brackeys)
 - [SETTINGS MENU in Unity](https://youtu.be/YOaYQrN1oYQ?list=WL)
 - [High Score Table with Saving and Loading(Unity Tutorial for Beginners)](https://youtu.be/iAbaqGYdnyI)
+- [What is JSON? (Unity Tuturiol for Beginners)](https://youtu.be/4oRVMCRCvN0?list=LL)
 
 - [Dropdown scroll speed](https://forum.unity.com/threads/dropdown-scroll-speed.363456/)
 - [How to Scale an Object in One Direction Unity 2020](https://youtu.be/XZnmMGz_VyU)
+- [Calling function from other scripts](https://forum.unity.com/threads/calling-function-from-other-scripts-c.57072/)
+- [C# Awake and Start in Unity! - Beginner Scripting Tutorial](https://youtu.be/4QdjoV63wjM) =>  Conclusion: Awake only is called when scripts is in the most outer object. 

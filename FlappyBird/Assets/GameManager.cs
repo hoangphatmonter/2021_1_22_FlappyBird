@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+using System;
+
 public class GameManager : MonoBehaviour
 {
     public GameObject gameOverCanvas;
@@ -22,6 +24,10 @@ public class GameManager : MonoBehaviour
         scoreCanvas.GetComponentInChildren<UnityEngine.UI.Button>().interactable = false;
         gameOverCanvas.SetActive(true);
         Time.timeScale = 0;
+
+        // update highscore
+        //gameObject.GetComponent<HighscoreTable>().CheckAndAddHighscoreEntry(Score.score, Score.playerName);// cannot use why ?
+        HighscoreTable.CheckAndAddHighscoreEntry(Score.score, Score.playerName); // use when static method
     }
 
     public void Replay()
